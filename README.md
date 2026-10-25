@@ -1,4 +1,4 @@
-## hello, here is some about me👋
+## about me
 
 I am a final year Computer Science student at Newcastle University. I spent last year
 studying at UMBC in Maryland. My interests lie mainly in quantum, networks and cyber security.
