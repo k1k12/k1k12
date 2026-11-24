@@ -25,4 +25,4 @@ Currently: studying network security, cryptography and quantum computing, workin
 
 ## elsewhere
 
-[LinkedIn](YOUR-NEW-LINKEDIN-URL) · open to chat about grad roles and internships
+[LinkedIn](https://www.linkedin.com/in/sofia-french-cs/) · open to chat about grad roles and internships
