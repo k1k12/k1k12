@@ -7,6 +7,7 @@ Currently: studying network security, cryptography and quantum computing, workin
 ## projects worth a look
 
 - **Invariant** – simulates failures in network designs to test how they hold up. Go backend, CI pipeline, Docker, automated security checks. *(in progress)*
+- [Lootle](https://github.com/k1k12/Lootle) – a daily trivia game inspired by Krillion. A side project built with a lot of help from AI coding tools.
 - [EcoNexus](https://github.com/k1k12/EcoNexus) – a recycling app from a uni team project: barcode scanning, recycling point maps and a council dashboard. React Native frontend, FastAPI + PostgreSQL backend. I was backend lead.
 - [secure-blog](https://github.com/k1k12/2031_CW1) – a blog site built with security as the main focus.
 - [wine-quality-ml](https://github.com/k1k12/2034_CW1) – predicting wine quality with EDA, feature engineering and some basic ML.
